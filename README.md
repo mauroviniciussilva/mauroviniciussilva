@@ -1,6 +1,6 @@
-### Hello there, I'm [Mauro Oliveira][website] 👋
+### Hello there, I'm [Mauro Oliveira][website]
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a FullStack Web Developer
 - I’m currently working at [TalkTelecom][talktelecomlink]!
 - I’m currently learning TypeScript, React and NodeJS
 - 2020 Goals: Contribute more to Open Source projects
