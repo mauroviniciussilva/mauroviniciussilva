@@ -1,6 +1,6 @@
 ### Hello there, I'm [Mauro Oliveira][website]
 
-## I'm a FullStack Web Developer
+## I'm a Full-Stack Web Developer
 - I’m currently working at [TalkTelecom][talktelecomlink]!
 - I’m currently learning TypeScript, React and NodeJS
 - 2020 Goals: Contribute more to Open Source projects
@@ -34,7 +34,12 @@
 <br />
 <br />
 
-<img align="left" alt="mauroviniciussilva's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mauroviniciussilva&show_icons=true&hide_border=true" />
+<img align="center" alt="Mauro Vinícius da Silva Oliveira's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauroviniciussilva&layout=compact" />
+
+<br />
+
+> **NOTE**: *Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+
 
 [talktelecomlink]: https://github.com/talktelecom
 [website]: https://maurooliveira.dev
