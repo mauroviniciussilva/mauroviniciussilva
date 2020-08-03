@@ -34,6 +34,8 @@
 <br />
 <br />
 
+<img align="center" alt="Mauro Vinícius da Silva Oliveira's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mauroviniciussilva" />
+
 <img align="center" alt="Mauro Vinícius da Silva Oliveira's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauroviniciussilva&layout=compact" />
 
 <br />
