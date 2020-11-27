@@ -1,9 +1,8 @@
 ### Hello there, I'm [Mauro Oliveira][website]
 
 ## I'm a Full-Stack Web Developer
-- I’m currently working at [TalkTelecom][talktelecomlink]!
-- I’m currently learning TypeScript, React and NodeJS
-- 2020 Goals: Contribute more to Open Source projects
+- I’m currently working at [TBDC Agro Softwares][tbdclink]!
+- I’m currently learning TypeScript, React and MongoDB
 
 ### Connect with me:
 
@@ -43,6 +42,6 @@
 > **NOTE**: *Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 
-[talktelecomlink]: https://github.com/talktelecom
+[tbdclink]: https://github.com/TBDC-Agro-Softwares
 [website]: https://maurooliveira.dev
 [linkedin]: https://linkedin.com/in/mauroviniciussilva
