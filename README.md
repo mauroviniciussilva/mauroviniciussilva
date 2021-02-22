@@ -2,7 +2,7 @@
 
 ## I'm a Full-Stack Web Developer
 - I’m currently working at [TBDC Agro Softwares][tbdclink]!
-- I’m currently learning TypeScript, React and PHP
+- I’m currently learning TypeScript, React and Elixir
 
 ### Connect with me:
 
